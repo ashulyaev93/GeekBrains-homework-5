@@ -27,7 +27,7 @@ public class Staff {
                 ", Возраст=" + age;
     }
 
-    public int getAge()//возвращаем возраст;
+    public int getAge()//возвращаем возраст сотрудника;
     {
         return age;
     }

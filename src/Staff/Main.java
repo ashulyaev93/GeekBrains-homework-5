@@ -11,7 +11,7 @@ public class Main {
             100000,
             26);
 
-	    System.out.println(staff1.print());//метод print, чтобы распечатывалось
+	    System.out.println(staff1.print());//метод print, чтобы распечатывалось;
 	    System.out.println();
 
         Staff[] stArray = new Staff[5];
