@@ -25,7 +25,7 @@ public class Main {
         {
             Staff curStaff = stArray[i];//объявляем массив;
             int age = curStaff.getAge();
-            if (age < 40)
+            if (age > 40)
             {
                 System.out.println(curStaff.print());
             }
